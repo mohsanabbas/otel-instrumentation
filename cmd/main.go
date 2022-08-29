@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"instrumentation/tracing"
+	"instrumentation/internal/tracing"
 
 	"github.com/gin-gonic/gin"
 	"go.mongodb.org/mongo-driver/bson"
