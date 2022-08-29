@@ -19,3 +19,15 @@ docker-compose up
 ````shell
 go run cmd/main.go
 ````
+
+__Jaeger Local Address__
+
+````text
+http://localhost:16686/search
+````
+
+__App address__
+
+````text
+http://localhost:8080/todo
+````
